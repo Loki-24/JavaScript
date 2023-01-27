@@ -7,7 +7,7 @@ border: 3px solid skyblue;
 border-radius: 5px;  
 padding: 20px;  
 text-align: center;  
-background-color: grey;  
+background-image: linear-gradient(to bottom right, #D16BA5, #86A8E7, #5FFBF1);  
 }  
    
 h1 {  
@@ -18,7 +18,7 @@ h1 {
     }  
 input:hover  
 {  
-background-color: green;  
+background-color: rgb(109, 139, 0);  
 }  
       
 *{  
@@ -33,7 +33,7 @@ height: 50px;
 font-size: 25px;  
 margin: 2px;  
 cursor: pointer;  
-background-color: red;  
+background-color: grey;  
 color: white;  
   
 }  
@@ -44,5 +44,5 @@ width: 223px;
 margin: 5px;  
 font-size: 25px;  
 padding: 5px;  
-background-color: lightgreen;  
+background-color: rgba(20, 145, 20, 0.596);  
 }     
